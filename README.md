@@ -1,5 +1,5 @@
  # Robofriends
-### Deployed link: 
+### Deployed link: https://andrewbergstrom.github.io/robofriends/
   ## Project Creator: 
   ###  Andrew Bergstrom
 ---
@@ -57,5 +57,5 @@
 ---
 ### 
   [Back to the top](#Robofriends)
-### or check out the app: Link coming soon
+### or check out the app: https://andrewbergstrom.github.io/robofriends/
   
